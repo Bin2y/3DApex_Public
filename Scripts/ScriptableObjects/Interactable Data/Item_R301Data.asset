@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69b72f504f390c048affbc204a1715cb, type: 3}
+  m_Name: Item_R301Data
+  m_EditorClassIdentifier: 
+  itemID: 0
+  itemName: R301
+  description: Light Gun
+  type: 4
+  icon: {fileID: 21300000, guid: cff50c201b1efdc49b7b723bb30b3556, type: 3}
+  bulletIcon: {fileID: 21300000, guid: 4f31b429574ef614fa326365af682488, type: 3}
+  equipPrefab: {fileID: 2208818845419045761, guid: 5b1a89f24c0681b44bcabf0a7a1f3a81, type: 3}
+  dropPrefab: {fileID: 7748462759361926224, guid: 0b0ad1354a9ad15499981c9360bce99c, type: 3}
+  isConsumable: 0
+  consumeTime: 0
+  canStack: 0
+  maxCount: 0
+  isBullet: 0
+  bulletType: 0
+  healType: 0
